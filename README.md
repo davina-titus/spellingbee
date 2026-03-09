@@ -1,5 +1,5 @@
 🐝 Spelling Bee Game & Solver
-A terminal-based C implementation of the NYT Spelling Bee game, extended with automatic solving capabilities. Built as part of CS 211 – Programming Practicum at the University of Illinois Chicago.
+A terminal-based C implementation of the NYT Spelling Bee game, extended with automatic solving capabilities.
 
 Overview
 The game centers around a hive — a set of unique letters. Players must find words that:
@@ -72,4 +72,4 @@ All dynamic allocations are tracked and freed. The project can be checked for me
 bashmake valgrind
 
 Author
-Davina Titus — CS 211, University of Illinois Chicago
+Davina Titus
